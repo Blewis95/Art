@@ -207,7 +207,7 @@ td{border-width:0 1px;}
 .faico li:last-child{margin-right:0;}
 .faico a{display:inline-block; width:36px; height:36px; line-height:36px; font-size:18px; text-align:center;}
 
-.faico a{color:#FFFFFF; background-color:#A3C9D3;}
+.faico a{color:#FFFFFF; background-color:#228B22;}
 
 .faicon-dribble:hover{background-color:#EA4C89;}
 .faicon-facebook:hover{background-color:#3B5998;}
@@ -259,7 +259,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#A3C9D3;}
 .cta article .heading a{color:inherit;}
 .cta article:hover .heading a{color:#A3C9D3;}
 .cta article span{color:#FFFFFF;}
-.cta article span::before, .cta article span::after{background-color:#A3C9D3; border-color:#A3C9D3;}
+.cta article span::before, .cta article span::after{background-color:#228B22; border-color:#A3C9D3;}
 .cta article:hover span::after{border-color:inherit;}
 
 
