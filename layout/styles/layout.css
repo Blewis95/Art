@@ -227,7 +227,7 @@ td{border-width:0 1px;}
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
 body{color:#FFFFFF; background-color:#000000;}
-a{color:#A3C9D3;}
+a{color:#228B22;}
 a:active, a:focus{background:transparent;}/* IE10 + 11 Bugfix - prevents grey background */
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
@@ -253,11 +253,11 @@ input:focus, textarea:focus, *:required:focus{border-color:#A3C9D3;}
 
 
 /* Content Area */
-.services li figure:hover::after{background-color:#A3C9D3;}
+.services li figure:hover::after{background-color:#228B22;}
 .services li figure figcaption{color:#FFFFFF;}
 
 .cta article .heading a{color:inherit;}
-.cta article:hover .heading a{color:#A3C9D3;}
+.cta article:hover .heading a{color:#228B22;}
 .cta article span{color:#FFFFFF;}
 .cta article span::before, .cta article span::after{background-color:#228B22; border-color:#A3C9D3;}
 .cta article:hover span::after{border-color:inherit;}
@@ -273,21 +273,21 @@ input:focus, textarea:focus, *:required:focus{border-color:#A3C9D3;}
 
 /* Navigation */
 #mainav li a{color:inherit;}
-#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#A3C9D3; background-color:inherit;}
+#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#228B22; background-color:inherit;}
 #mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:rgba(0,0,0,.6); border-color:rgba(0,0,0,.6);}
-#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#A3C9D3;}
+#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#228B22;}
 #mainav form select{color:#FFFFFF; background-color:#1F1F1F; border-color:#000000;}
 
 #breadcrumb a{color:inherit; background-color:inherit;}
-#breadcrumb li:last-child a{color:#A3C9D3;}
+#breadcrumb li:last-child a{color:#228B22;}
 
 .container .sidebar nav a{color:inherit; border-color:#D7D7D7;}
-.container .sidebar nav a:hover{color:#A3C9D3;}
+.container .sidebar nav a:hover{color:#228B22;}
 
 .pagination a, .pagination strong{border-color:#D7D7D7;}
-.pagination .current *{color:#FFFFFF; background-color:#A3C9D3;}
+.pagination .current *{color:#FFFFFF; background-color:#228B22;}
 
-#backtotop{color:#FFFFFF; background-color:#A3C9D3;}
+#backtotop{color:#FFFFFF; background-color:#228B22;}
 
 
 /* Tables + Comments */
