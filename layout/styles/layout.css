@@ -235,7 +235,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#A3C9D3;}
 .overlay{color:#FFFFFF; background-color:inherit;}
 .overlay::after{color:inherit; background-color:rgba(0,0,0,.55);}
 
-.btn, .btn.inverse:hover{color:#228B22; background-color:#A3C9D3; border-color:#A3C9D3;}
+.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#228B22; border-color:#A3C9D3;}
 .btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
 
 
