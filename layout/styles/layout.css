@@ -49,9 +49,8 @@ File: Layout CSS
 .container .content{}
 
 .services{}
-.services li{text-align:center;}
+.services li{text-align:center; margin-bottom:30px;}
 .services > li:first-child{text-align:left;}
-.services li:nth-child(-n+5){margin-bottom:30px;}/* Adds bottom margin to the first five elements only */
 .services li:last-child{margin-bottom:0;}/* Required when elements stack in smaller viewports */
 .services li figure{display:inline-block; position:relative; max-width:100%;}
 .services li figure figcaption{display:block; position:absolute; top:50%; transform:translate(0,-50%); width:100%; line-height:1; text-align:center; opacity:0; z-index:1;}
